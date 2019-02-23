@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\Sum of two numbers\Sum of two numbers\bin\Debug\Sum of two numbers.exe.config
+C:\Users\USER\source\repos\Sum of two numbers\Sum of two numbers\bin\Debug\Sum of two numbers.exe
+C:\Users\USER\source\repos\Sum of two numbers\Sum of two numbers\bin\Debug\Sum of two numbers.pdb
+C:\Users\USER\source\repos\Sum of two numbers\Sum of two numbers\obj\Debug\Sum of two numbers.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Sum of two numbers\Sum of two numbers\obj\Debug\Sum of two numbers.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Sum of two numbers\Sum of two numbers\obj\Debug\Sum of two numbers.exe
+C:\Users\USER\source\repos\Sum of two numbers\Sum of two numbers\obj\Debug\Sum of two numbers.pdb
